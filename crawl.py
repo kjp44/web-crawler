@@ -42,8 +42,8 @@ def crawler(crawledURLs, q, relatedTerms, pageLimit):
                 pageCount += 1
                 print('#' + str(pageCount) + ': ' + pageTitle + ' - ' + URL + ' saved!')
 
-        #if pageCount >= pageLimit:
-            #break
+        if pageCount >= pageLimit:
+            break
 
     print('Saved ' + str(pageCount) + ' pages.')
 

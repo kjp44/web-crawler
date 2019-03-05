@@ -13,7 +13,6 @@ def getRelatedTerms():
 	r'\bpythons?\b',
 	r'\bboas?\b',
 	r'\bvipers',
-	r'\bcobra?\b',
 	r'\bmambas?\b',
 	r'\bcolubrids?\b',
 	r'\badders?\b',

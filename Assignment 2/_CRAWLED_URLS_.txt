@@ -1,0 +1,500 @@
+1: Snake - https://en.wikipedia.org/wiki/Snake
+2: Reptile - https://en.wikipedia.org/wiki/Reptile
+3: Animal - https://en.wikipedia.org/wiki/Animal
+4: Squamata - https://en.wikipedia.org/wiki/Squamata
+5: Ophidia - https://en.wikipedia.org/wiki/Ophidia
+6: 10th edition of Systema Naturae - https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae
+7: Alethinophidia - https://en.wikipedia.org/wiki/Alethinophidia
+8: Vertebrate - https://en.wikipedia.org/wiki/Vertebrate
+9: Scale (anatomy) - https://en.wikipedia.org/wiki/Scale_(zoology)
+10: Vestigiality - https://en.wikipedia.org/wiki/Vestigial
+11: Lizard - https://en.wikipedia.org/wiki/Lizard
+12: Sea snake - https://en.wikipedia.org/wiki/Hydrophiinae
+13: Species - https://en.wikipedia.org/wiki/Species
+14: Reticulated python - https://en.wikipedia.org/wiki/Python_reticulatus
+15: Titanoboa - https://en.wikipedia.org/wiki/Titanoboa_cerrejonensis
+16: Venom - https://en.wikipedia.org/wiki/Venom
+17: Constriction - https://en.wikipedia.org/wiki/Constriction
+18: Amerophidia - https://en.wikipedia.org/wiki/Amerophidia
+19: Anilius - https://en.wikipedia.org/wiki/Anilius
+20: Tropidophiidae - https://en.wikipedia.org/wiki/Tropidophiidae
+21: Uropeltoidea - https://en.wikipedia.org/wiki/Uropeltoidea
+22: Uropeltidae - https://en.wikipedia.org/wiki/Uropeltidae
+23: Cylindrophis - https://en.wikipedia.org/wiki/Cylindrophis
+24: Pythonoidea - https://en.wikipedia.org/wiki/Pythonoidea
+25: Pythonidae - https://en.wikipedia.org/wiki/Pythonidae
+26: Xenopeltis - https://en.wikipedia.org/wiki/Xenopeltis
+27: Loxocemus - https://en.wikipedia.org/wiki/Loxocemus
+28: Caenophidia - https://en.wikipedia.org/wiki/Caenophidia
+29: Pareidae - https://en.wikipedia.org/wiki/Pareidae
+30: Viperidae - https://en.wikipedia.org/wiki/Viperidae
+31: Homalopsidae - https://en.wikipedia.org/wiki/Homalopsidae
+32: Lamprophiidae - https://en.wikipedia.org/wiki/Lamprophiidae
+33: Elapidae - https://en.wikipedia.org/wiki/Elapidae
+34: Colubridae - https://en.wikipedia.org/wiki/Colubridae
+35: Booidea - https://en.wikipedia.org/wiki/Booidea
+36: Boidae - https://en.wikipedia.org/wiki/Boidae
+37: Erycinae - https://en.wikipedia.org/wiki/Erycinae
+38: Calabar python - https://en.wikipedia.org/wiki/Calabaria
+39: Ungaliophiinae - https://en.wikipedia.org/wiki/Ungaliophiinae
+40: Sanzinia - https://en.wikipedia.org/wiki/Sanzinia
+41: Candoia - https://en.wikipedia.org/wiki/Candoia
+42: Fossil - https://en.wikipedia.org/wiki/Fossil
+43: Pelvic spur - https://en.wikipedia.org/wiki/Anal_spur
+44: Nerodia - https://en.wikipedia.org/wiki/Nerodia
+45: Kingsnake - https://en.wikipedia.org/wiki/Lampropeltis
+46: Pituophis - https://en.wikipedia.org/wiki/Pituophis
+47: Pantherophis - https://en.wikipedia.org/wiki/Pantherophis
+48: Monitor lizard - https://en.wikipedia.org/wiki/Monitor_lizard
+49: Earless monitor lizard - https://en.wikipedia.org/wiki/Lanthanotidae
+50: Brille - https://en.wikipedia.org/wiki/Brille
+51: Pachyrhachis - https://en.wikipedia.org/wiki/Pachyrhachis
+52: Yellow-bellied sea snake - https://en.wikipedia.org/wiki/Pelamis_platura
+53: Yellow-lipped sea krait - https://en.wikipedia.org/wiki/Laticauda_colubrina
+54: List of snake genera - https://en.wikipedia.org/wiki/List_of_snake_genera
+55: Henophidia - https://en.wikipedia.org/wiki/Henophidia
+56: Atractaspidinae - https://en.wikipedia.org/wiki/Atractaspidinae
+57: Madtsoiidae - https://en.wikipedia.org/wiki/Madtsoiidae
+58: Wonambi - https://en.wikipedia.org/wiki/Wonambi
+59: Clade - https://en.wikipedia.org/wiki/Clades
+60: Guadalcanal - https://en.wikipedia.org/wiki/Guadalcanal_Island
+61: Bolyeriidae - https://en.wikipedia.org/wiki/Bolyeriidae
+62: Leo Brongersma - https://en.wikipedia.org/wiki/L.D._Brongersma
+63: Sulawesi - https://en.wikipedia.org/wiki/Sulawesi
+64: Anguis fragilis - https://en.wikipedia.org/wiki/Slowworm
+65: Green anaconda - https://en.wikipedia.org/wiki/Eunectes_murinus
+66: Infrared sensing in snakes - https://en.wikipedia.org/wiki/Infrared_sensing_in_snakes
+67: Forked tongue - https://en.wikipedia.org/wiki/Forked_tongue
+68: Vomeronasal organ - https://en.wikipedia.org/wiki/Vomeronasal_organ
+69: Anaconda - https://en.wikipedia.org/wiki/Anaconda
+70: George Albert Boulenger - https://en.wikipedia.org/wiki/G.A._Boulenger
+71: Ahaetulla - https://en.wikipedia.org/wiki/Ahaetulla
+72: Snake scale - https://en.wikipedia.org/wiki/Snake_scales
+73: Snakeskin - https://en.wikipedia.org/wiki/Snakeskin
+74: Keeled scales - https://en.wikipedia.org/wiki/Keeled_scales
+75: Dorsal scales - https://en.wikipedia.org/wiki/Dorsal_scale
+76: Rod of Asclepius - https://en.wikipedia.org/wiki/Rod_of_Asclepius
+77: Hemipenis - https://en.wikipedia.org/wiki/Hemipenis
+78: Snake skeleton - https://en.wikipedia.org/wiki/Snake_skeleton
+79: Tetrapod - https://en.wikipedia.org/wiki/Tetrapod
+80: Autotomy - https://en.wikipedia.org/wiki/Autotomy
+81: Snake venom - https://en.wikipedia.org/wiki/Snake_venom
+82: Venomous snake - https://en.wikipedia.org/wiki/Venomous_snake
+83: Milk snake - https://en.wikipedia.org/wiki/Milk_snake
+84: Coral snake - https://en.wikipedia.org/wiki/Coral_snake
+85: Saliva - https://en.wikipedia.org/wiki/Saliva
+86: Boomslang - https://en.wikipedia.org/wiki/Boomslang
+87: Rhabdophis - https://en.wikipedia.org/wiki/Rhabdophis
+88: Garter snake - https://en.wikipedia.org/wiki/Garter_snakes
+89: Neurotoxin - https://en.wikipedia.org/wiki/Neurotoxin
+90: Hemotoxin - https://en.wikipedia.org/wiki/Hemotoxin
+91: Cytotoxicity - https://en.wikipedia.org/wiki/Cytotoxin
+92: Bungarotoxin - https://en.wikipedia.org/wiki/Bungarotoxin
+93: Hyaluronidase - https://en.wikipedia.org/wiki/Hyaluronidase
+94: Boiga dendrophila - https://en.wikipedia.org/wiki/Boiga_dendrophila
+95: Cobra - https://en.wikipedia.org/wiki/Cobra
+96: Bungarus - https://en.wikipedia.org/wiki/Krait
+97: Gila monster - https://en.wikipedia.org/wiki/Gila_monster
+98: Toxicofera - https://en.wikipedia.org/wiki/Venom_clade
+99: King cobra - https://en.wikipedia.org/wiki/King_cobra
+100: Mamba - https://en.wikipedia.org/wiki/Mamba
+101: Austrelaps - https://en.wikipedia.org/wiki/Austrelaps
+102: Rattlesnake - https://en.wikipedia.org/wiki/Rattlesnake
+103: Agkistrodon contortrix - https://en.wikipedia.org/wiki/Agkistrodon_contortrix
+104: Agkistrodon piscivorus - https://en.wikipedia.org/wiki/Agkistrodon_piscivorus
+105: Lachesis (genus) - https://en.wikipedia.org/wiki/Lachesis_(genus)
+106: Boiga - https://en.wikipedia.org/wiki/Boiga
+107: Sexual selection in scaled reptiles - https://en.wikipedia.org/wiki/Sexual_selection_in_scaled_reptiles
+108: Internal fertilization - https://en.wikipedia.org/wiki/Internal_fertilization
+109: Viviparity - https://en.wikipedia.org/wiki/Viviparity
+110: Boa constrictor - https://en.wikipedia.org/wiki/Boa_constrictor
+111: Sexual selection - https://en.wikipedia.org/wiki/Sexual_selection
+112: Parthenogenesis - https://en.wikipedia.org/wiki/Parthenogenesis
+113: Epicrates maurus - https://en.wikipedia.org/wiki/Epicrates_maurus
+114: Morelia spilota - https://en.wikipedia.org/wiki/Carpet_python
+115: Chicken - https://en.wikipedia.org/wiki/Chicken
+116: Dasypeltis - https://en.wikipedia.org/wiki/Dasypeltis
+117: Vertebral column - https://en.wikipedia.org/wiki/Vertebral_column
+118: Bandy-bandy - https://en.wikipedia.org/wiki/Vermicella_annulata
+119: Dolichophis jugularis - https://en.wikipedia.org/wiki/Dolichophis_jugularis
+120: Predation - https://en.wikipedia.org/wiki/Predation
+121: Crotalus durissus - https://en.wikipedia.org/wiki/Crotalus_durissus
+122: Claw - https://en.wikipedia.org/wiki/Claws
+123: Undulatory locomotion - https://en.wikipedia.org/wiki/Undulatory_locomotion
+124: Crotalus cerastes - https://en.wikipedia.org/wiki/Crotalus_cerastes
+125: Chrysopelea ornata - https://en.wikipedia.org/wiki/Golden_tree_snake
+126: Chrysopelea - https://en.wikipedia.org/wiki/Chrysopelea
+127: Rectilinear locomotion - https://en.wikipedia.org/wiki/Rectilinear_locomotion
+128: Snakebite - https://en.wikipedia.org/wiki/Snakebite
+129: Vipera berus - https://en.wikipedia.org/wiki/Vipera_berus
+130: Antivenom - https://en.wikipedia.org/wiki/Antivenom
+131: Pit viper - https://en.wikipedia.org/wiki/Pit_viper
+132: Taipan - https://en.wikipedia.org/wiki/Taipan
+133: Snake charming - https://en.wikipedia.org/wiki/Snake_charming
+134: Indian cobra - https://en.wikipedia.org/wiki/Indian_cobra
+135: Mongoose - https://en.wikipedia.org/wiki/Mongoose
+136: Herpetology - https://en.wikipedia.org/wiki/Herpetologist
+137: Bill Haast - https://en.wikipedia.org/wiki/Bill_Haast
+138: Austin Stevens - https://en.wikipedia.org/wiki/Austin_Stevens
+139: Steve Irwin - https://en.wikipedia.org/wiki/Steve_Irwin
+140: Enhydris - https://en.wikipedia.org/wiki/Enhydris
+141: Snake soup - https://en.wikipedia.org/wiki/Snake_soup
+142: Protobothrops flavoviridis - https://en.wikipedia.org/wiki/Trimeresurus_flavoviridis
+143: Okinawa Prefecture - https://en.wikipedia.org/wiki/Okinawa
+144: Snake wine - https://en.wikipedia.org/wiki/Snake_wine
+145: Ball python - https://en.wikipedia.org/wiki/Python_regius
+146: Corn snake - https://en.wikipedia.org/wiki/Corn_snake
+147: Herpetoculture - https://en.wikipedia.org/wiki/Herpetoculture
+148: Serpent (symbolism) - https://en.wikipedia.org/wiki/Serpent_(symbolism)
+149: Caduceus - https://en.wikipedia.org/wiki/Kerykeion
+150: Cerastes cerastes - https://en.wikipedia.org/wiki/Cerastes_cerastes
+151: Marduk - https://en.wikipedia.org/wiki/Marduk
+152: Snake worship - https://en.wikipedia.org/wiki/Snake_worship
+153: Cleopatra - https://en.wikipedia.org/wiki/Cleopatra_VII_of_Egypt
+154: Ouroboros - https://en.wikipedia.org/wiki/Ouroboros
+155: Medusa (Caravaggio) - https://en.wikipedia.org/wiki/Medusa_(Caravaggio)
+156: Medusa - https://en.wikipedia.org/wiki/Medusa
+157: Gorgon - https://en.wikipedia.org/wiki/Gorgon
+158: Lernaean Hydra - https://en.wikipedia.org/wiki/Lernaean_Hydra
+159: Naga Panchami - https://en.wikipedia.org/wiki/Nag_Panchami
+160: Nāga - https://en.wikipedia.org/wiki/N%C4%81ga
+161: Ichchhadhari Nag - https://en.wikipedia.org/wiki/Ichchhadhari_Nag
+162: Vasuki - https://en.wikipedia.org/wiki/Vasuki_(snake)
+163: Takshaka - https://en.wikipedia.org/wiki/Taxak
+164: Asclepius - https://en.wikipedia.org/wiki/Asclepius
+165: Nehushtan - https://en.wikipedia.org/wiki/Nehushtan
+166: Snake handling in religion - https://en.wikipedia.org/wiki/Snake_handling
+167: List of Serpentes families - https://en.wikipedia.org/wiki/List_of_Serpentes_families
+168: Spinal osteoarthropathy - https://en.wikipedia.org/wiki/Spinal_osteoarthropathy
+169: Roger Conant (herpetologist) - https://en.wikipedia.org/wiki/Roger_Conant_(herpetologist)
+170: Raymond Ditmars - https://en.wikipedia.org/wiki/Raymond_Ditmars
+171: Romulus Whitaker - https://en.wikipedia.org/wiki/Romulus_Whitaker
+172: Human interactions with insects - https://en.wikipedia.org/wiki/Ethnoentomology
+173: Ethnolichenology - https://en.wikipedia.org/wiki/Ethnolichenology
+174: Arthropods in culture - https://en.wikipedia.org/wiki/Arthropods_in_culture
+175: Insects in mythology - https://en.wikipedia.org/wiki/Insects_in_mythology
+176: Beetle - https://en.wikipedia.org/wiki/Beetle
+177: Dragonfly - https://en.wikipedia.org/wiki/Dragonfly
+178: Cultural depictions of spiders - https://en.wikipedia.org/wiki/Cultural_depictions_of_spiders
+179: Arachnophobia - https://en.wikipedia.org/wiki/Arachnophobia
+180: Tick - https://en.wikipedia.org/wiki/Tick
+181: Molluscs in culture - https://en.wikipedia.org/wiki/Molluscs_in_culture
+182: Octopus - https://en.wikipedia.org/wiki/Octopus
+183: Amphibians in human culture - https://en.wikipedia.org/wiki/Amphibians_in_culture
+184: Frogs in culture - https://en.wikipedia.org/wiki/Frogs_in_culture
+185: Salamanders in folklore - https://en.wikipedia.org/wiki/Salamanders_in_folklore_and_legend
+186: Toadstone - https://en.wikipedia.org/wiki/Toadstone
+187: Human uses of birds - https://en.wikipedia.org/wiki/Human_uses_of_birds
+188: Poultry - https://en.wikipedia.org/wiki/Poultry
+189: Shark - https://en.wikipedia.org/wiki/Shark
+190: Shark attack - https://en.wikipedia.org/wiki/Shark_attack
+191: Animals in professional wrestling - https://en.wikipedia.org/wiki/Animals_in_professional_wrestling
+192: Pet - https://en.wikipedia.org/wiki/Pet
+193: Bat - https://en.wikipedia.org/wiki/Bat
+194: Leopard - https://en.wikipedia.org/wiki/Leopards_in_culture
+195: Primate - https://en.wikipedia.org/wiki/Primate
+196: Orangutans in popular culture - https://en.wikipedia.org/wiki/Orangutans_in_popular_culture
+197: Human uses of reptiles - https://en.wikipedia.org/wiki/Reptiles_in_culture
+198: Crocodile - https://en.wikipedia.org/wiki/Crocodile
+199: Dragon - https://en.wikipedia.org/wiki/Dragon
+200: Basilisk - https://en.wikipedia.org/wiki/Basilisk
+201: Serpents in the Bible - https://en.wikipedia.org/wiki/Serpents_in_the_Bible
+202: Coral - https://en.wikipedia.org/wiki/Coral
+203: Jellyfish - https://en.wikipedia.org/wiki/Jellyfish
+204: Man-eater - https://en.wikipedia.org/wiki/Man-eater
+205: List of fictional plants - https://en.wikipedia.org/wiki/List_of_fictional_plants
+206: Mandrake - https://en.wikipedia.org/wiki/Mandrake
+207: Plant epithet - https://en.wikipedia.org/wiki/Plant_epithet
+208: Sugarcane - https://en.wikipedia.org/wiki/Sugarcane
+209: Lilium - https://en.wikipedia.org/wiki/Lily
+210: Human interactions with microbes - https://en.wikipedia.org/wiki/Human_interactions_with_microbes
+211: Biological warfare - https://en.wikipedia.org/wiki/Biological_warfare
+212: Legendary creature - https://en.wikipedia.org/wiki/Legendary_creature
+213: Tuatara - https://en.wikipedia.org/wiki/Tuatara
+214: Nile crocodile - https://en.wikipedia.org/wiki/Nile_crocodile
+215: Lepidosauria - https://en.wikipedia.org/wiki/Lepidosauria
+216: Bird - https://en.wikipedia.org/wiki/Bird
+217: Cretaceous–Paleogene extinction event - https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event
+218: Mammal - https://en.wikipedia.org/wiki/Mammal
+219: Saltwater crocodile - https://en.wikipedia.org/wiki/Saltwater_crocodile
+220: List of reptiles - https://en.wikipedia.org/wiki/List_of_reptiles
+221: Grass snake - https://en.wikipedia.org/wiki/Grass_snake
+222: Amphibia in the 10th edition of Systema Naturae - https://en.wikipedia.org/wiki/Amphibia_in_the_10th_edition_of_Systema_Naturae
+223: Phylogenetics - https://en.wikipedia.org/wiki/Phylogenetic
+224: Pogona - https://en.wikipedia.org/wiki/Pogona
+225: Evolution of reptiles - https://en.wikipedia.org/wiki/Evolution_of_reptiles
+226: Megafauna - https://en.wikipedia.org/wiki/Megafauna
+227: Megalania - https://en.wikipedia.org/wiki/Varanus_priscus
+228: Goanna - https://en.wikipedia.org/wiki/Goanna
+229: Miocene - https://en.wikipedia.org/wiki/Miocene
+230: List of domesticated animals - https://en.wikipedia.org/wiki/List_of_domesticated_animals
+231: American alligator - https://en.wikipedia.org/wiki/American_Alligators
+232: Liver - https://en.wikipedia.org/wiki/Liver
+233: Charles Darwin - https://en.wikipedia.org/wiki/Charles_Darwin
+234: Agamidae - https://en.wikipedia.org/wiki/Agamidae
+235: Komodo dragon - https://en.wikipedia.org/wiki/Komodo_dragon
+236: Infrared - https://en.wikipedia.org/wiki/Infrared
+237: Crypsis - https://en.wikipedia.org/wiki/Crypsis
+238: Evolution of snake venom - https://en.wikipedia.org/wiki/Evolution_of_snake_venom
+239: Hognose - https://en.wikipedia.org/wiki/Hognose_snakes
+240: Regeneration (biology) - https://en.wikipedia.org/wiki/Regeneration_(biology)
+241: Australia - https://en.wikipedia.org/wiki/Australia
+242: List of threatened reptiles and amphibians of the United States - https://en.wikipedia.org/wiki/List_of_threatened_reptiles_and_amphibians_of_the_United_States
+243: Archelosauria - https://en.wikipedia.org/wiki/Archelosauria
+244: Phanerozoic - https://en.wikipedia.org/wiki/Phanerozoic
+245: Multicellular organism - https://en.wikipedia.org/wiki/Multicellular
+246: Mollusca - https://en.wikipedia.org/wiki/Mollusc
+247: Jean-Baptiste Lamarck - https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+248: Taxon - https://en.wikipedia.org/wiki/Taxon
+249: Unicellular organism - https://en.wikipedia.org/wiki/Unicellular
+250: Evolutionary arms race - https://en.wikipedia.org/wiki/Evolutionary_arms_race
+251: Anti-predator adaptation - https://en.wikipedia.org/wiki/Anti-predator_adaptation
+252: List of feeding behaviours - https://en.wikipedia.org/wiki/Feeding_behaviour
+253: Hydrothermal vent - https://en.wikipedia.org/wiki/Hydrothermal_vent
+254: Animal locomotion - https://en.wikipedia.org/wiki/Animal_locomotion
+255: Body plan - https://en.wikipedia.org/wiki/Body_plan
+256: Sense - https://en.wikipedia.org/wiki/Sense_organ
+257: Sea urchin - https://en.wikipedia.org/wiki/Sea_urchin
+258: Fish - https://en.wikipedia.org/wiki/Fish
+259: Aristotle - https://en.wikipedia.org/wiki/Aristotle
+260: Pisces in the 10th edition of Systema Naturae - https://en.wikipedia.org/wiki/Pisces_in_the_10th_edition_of_Systema_Naturae
+261: Domestication of animals - https://en.wikipedia.org/wiki/Domestication_of_animals
+262: Toxin - https://en.wikipedia.org/wiki/Toxin
+263: Cormorant - https://en.wikipedia.org/wiki/Cormorant
+264: Poison dart frog - https://en.wikipedia.org/wiki/Poison_dart_frog
+265: Parrot - https://en.wikipedia.org/wiki/Parrot
+266: Dog - https://en.wikipedia.org/wiki/Dog
+267: Animal attack - https://en.wikipedia.org/wiki/Animal_attacks
+268: Animal coloration - https://en.wikipedia.org/wiki/Animal_coloration
+269: List of animal names - https://en.wikipedia.org/wiki/List_of_animal_names
+270: Life - https://en.wikipedia.org/wiki/Life
+271: Evolutionary history of life - https://en.wikipedia.org/wiki/Evolutionary_history_of_life
+272: Lacertoidea - https://en.wikipedia.org/wiki/Lacertoidea
+273: Anguimorpha - https://en.wikipedia.org/wiki/Anguimorpha
+274: Anatomy - https://en.wikipedia.org/wiki/Anatomy
+275: Varanidae - https://en.wikipedia.org/wiki/Varanidae
+276: Neoanguimorpha - https://en.wikipedia.org/wiki/Neoanguimorpha
+277: Heloderma - https://en.wikipedia.org/wiki/Helodermatidae
+278: Dactyloidae - https://en.wikipedia.org/wiki/Dactyloidae
+279: Afrophidia - https://en.wikipedia.org/wiki/Afrophidia
+280: Colubroidea - https://en.wikipedia.org/wiki/Colubroidea
+281: Iberian worm lizard - https://en.wikipedia.org/wiki/Blanus_cinereus
+282: Burton's legless lizard - https://en.wikipedia.org/wiki/Lialis_burtonis
+283: Johann Baptist von Spix - https://en.wikipedia.org/wiki/Johann_Baptist_von_Spix
+284: Perentie - https://en.wikipedia.org/wiki/Perentie
+285: Acrochordus granulatus - https://en.wikipedia.org/wiki/Acrochordus_granulatus
+286: Corallus hortulanus - https://en.wikipedia.org/wiki/Amazon_tree_boa
+287: Round Island burrowing boa - https://en.wikipedia.org/wiki/Round_Island_burrowing_boa
+288: Dipsadinae - https://en.wikipedia.org/wiki/Dipsadidae
+289: Natricinae - https://en.wikipedia.org/wiki/Natricidae
+290: Pseudoxenodontinae - https://en.wikipedia.org/wiki/Pseudoxenodontidae
+291: Atractaspis bibronii - https://en.wikipedia.org/wiki/Atractaspis_bibronii
+292: Trachyboa - https://en.wikipedia.org/wiki/Trachyboa
+293: Vipera aspis - https://en.wikipedia.org/wiki/Vipera_aspis
+294: Xenopeltis unicolor - https://en.wikipedia.org/wiki/Xenopeltis_unicolor
+295: Xerotyphlops vermicularis - https://en.wikipedia.org/wiki/Typhlops_vermicularis
+296: Autarchoglossa - https://en.wikipedia.org/wiki/Autarchoglossa
+297: Platynota - https://en.wikipedia.org/wiki/Platynota
+298: Related changes - https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Squamata
+299: Principle of Priority - https://en.wikipedia.org/wiki/Principle_of_Priority
+300: Cetacea - https://en.wikipedia.org/wiki/Cetacean
+301: Lemur - https://en.wikipedia.org/wiki/Lemur
+302: Hedgehog - https://en.wikipedia.org/wiki/Hedgehog
+303: Bee-eater - https://en.wikipedia.org/wiki/Bee-eaters
+304: Peafowl - https://en.wikipedia.org/wiki/Peafowl
+305: Boa (genus) - https://en.wikipedia.org/wiki/Boa_(genus)
+306: Eastern racer - https://en.wikipedia.org/wiki/Coluber
+307: Weever - https://en.wikipedia.org/wiki/Weever
+308: Tuna - https://en.wikipedia.org/wiki/Tuna
+309: Catfish - https://en.wikipedia.org/wiki/Catfish
+310: Pipefish - https://en.wikipedia.org/wiki/Pipefish
+311: Rove beetle - https://en.wikipedia.org/wiki/Rove_beetle
+312: Centipede - https://en.wikipedia.org/wiki/Centipede
+313: Millipede - https://en.wikipedia.org/wiki/Millipede
+314: Slug - https://en.wikipedia.org/wiki/Slug
+315: Alps - https://en.wikipedia.org/wiki/Alps
+316: Carpobrotus edulis - https://en.wikipedia.org/wiki/Carpobrotus_edulis
+317: Mucuna pruriens - https://en.wikipedia.org/wiki/Mucuna_pruriens
+318: De Materia Medica - https://en.wikipedia.org/wiki/De_Materia_Medica
+319: On the Origin of Species - https://en.wikipedia.org/wiki/On_the_Origin_of_Species
+320: History of evolutionary thought - https://en.wikipedia.org/wiki/History_of_evolutionary_thought
+321: Azemiops - https://en.wikipedia.org/wiki/Azemiopinae
+322: Viperinae - https://en.wikipedia.org/wiki/Viperinae
+323: Albert Günther - https://en.wikipedia.org/wiki/Albert_G%C3%BCnther
+324: Sibynophiinae - https://en.wikipedia.org/wiki/Sibynophiinae
+325: Grayia (snake) - https://en.wikipedia.org/wiki/Grayiinae
+326: Calamariinae - https://en.wikipedia.org/wiki/Calamariinae
+327: Ahaetuliinae - https://en.wikipedia.org/wiki/Ahaetullinae
+328: Colubrinae - https://en.wikipedia.org/wiki/Colubrinae
+329: Lamprophiinae - https://en.wikipedia.org/wiki/Lamprophiinae
+330: Pseudoxyrhophiinae - https://en.wikipedia.org/wiki/Pseudoxyrhophiinae
+331: Branchial arch - https://en.wikipedia.org/wiki/Gill_arch
+332: Eye - https://en.wikipedia.org/wiki/Eye
+333: Evolution of fish - https://en.wikipedia.org/wiki/Evolution_of_fish
+334: Evolution of tetrapods - https://en.wikipedia.org/wiki/Evolution_of_tetrapods
+335: Cenozoic - https://en.wikipedia.org/wiki/Cenozoic
+336: Evolution - https://en.wikipedia.org/wiki/Evolution
+337: Mutation - https://en.wikipedia.org/wiki/Mutation
+338: Purple-crowned fairywren - https://en.wikipedia.org/wiki/Purple-crowned_fairywren
+339: Buff striped keelback - https://en.wikipedia.org/wiki/Amphiesma_stolatum
+340: Skin - https://en.wikipedia.org/wiki/Skin
+341: Fish scale - https://en.wikipedia.org/wiki/Fish_scale
+342: Tooth - https://en.wikipedia.org/wiki/Tooth
+343: Homology (biology) - https://en.wikipedia.org/wiki/Homology_(biology)
+344: Genetic drift - https://en.wikipedia.org/wiki/Genetic_drift
+345: Evidence of common descent - https://en.wikipedia.org/wiki/Evidence_of_common_descent
+346: Lamarckism - https://en.wikipedia.org/wiki/Inheritance_of_acquired_characters
+347: Natural selection - https://en.wikipedia.org/wiki/Natural_selection
+348: Common descent - https://en.wikipedia.org/wiki/Common_descent
+349: Adaptation - https://en.wikipedia.org/wiki/Adaptation
+350: Spandrel (biology) - https://en.wikipedia.org/wiki/Spandrel_(biology)
+351: Evolutionary biology - https://en.wikipedia.org/wiki/Evolutionary_biology
+352: Index of evolutionary biology articles - https://en.wikipedia.org/wiki/Index_of_evolutionary_biology_articles
+353: Introduction to evolution - https://en.wikipedia.org/wiki/Introduction_to_evolution
+354: Outline of evolution - https://en.wikipedia.org/wiki/Outline_of_evolution
+355: Timeline of the evolutionary history of life - https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
+356: Earliest known life forms - https://en.wikipedia.org/wiki/Earliest_known_life_forms
+357: Gene-centered view of evolution - https://en.wikipedia.org/wiki/Gene-centered_view_of_evolution
+358: Last universal common ancestor - https://en.wikipedia.org/wiki/Last_universal_common_ancestor
+359: Macroevolution - https://en.wikipedia.org/wiki/Macroevolution
+360: Microevolution - https://en.wikipedia.org/wiki/Microevolution
+361: Speciation - https://en.wikipedia.org/wiki/Speciation
+362: Population genetics - https://en.wikipedia.org/wiki/Population_genetics
+363: Gene flow - https://en.wikipedia.org/wiki/Gene_flow
+364: Canalisation (genetics) - https://en.wikipedia.org/wiki/Canalisation_(genetics)
+365: Evolutionary developmental biology - https://en.wikipedia.org/wiki/Evolutionary_developmental_biology
+366: Inversion (evolutionary biology) - https://en.wikipedia.org/wiki/Inversion_(evolutionary_biology)
+367: Phenotypic plasticity - https://en.wikipedia.org/wiki/Phenotypic_plasticity
+368: Evolution of birds - https://en.wikipedia.org/wiki/Evolution_of_birds
+369: Evolution of brachiopods - https://en.wikipedia.org/wiki/Evolution_of_brachiopods
+370: Evolution of molluscs - https://en.wikipedia.org/wiki/Evolution_of_molluscs
+371: Evolution of cephalopods - https://en.wikipedia.org/wiki/Evolution_of_cephalopods
+372: Evolution of dinosaurs - https://en.wikipedia.org/wiki/Evolution_of_dinosaurs
+373: Evolution of fungi - https://en.wikipedia.org/wiki/Evolution_of_fungi
+374: Evolution of insects - https://en.wikipedia.org/wiki/Evolution_of_insects
+375: Evolution of butterflies - https://en.wikipedia.org/wiki/Evolution_of_butterflies
+376: Evolution of mammals - https://en.wikipedia.org/wiki/Evolution_of_mammals
+377: Cat gap - https://en.wikipedia.org/wiki/Cat_gap
+378: Evolution of the wolf - https://en.wikipedia.org/wiki/Evolution_of_the_wolf
+379: Origin of the domestic dog - https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog
+380: Evolution of cetaceans - https://en.wikipedia.org/wiki/Evolution_of_cetaceans
+381: Evolution of the horse - https://en.wikipedia.org/wiki/Evolution_of_the_horse
+382: Evolution of lemurs - https://en.wikipedia.org/wiki/Evolution_of_lemurs
+383: Evolution of sirenians - https://en.wikipedia.org/wiki/Evolution_of_sirenians
+384: Evolutionary history of plants - https://en.wikipedia.org/wiki/Evolutionary_history_of_plants
+385: Evolution of spiders - https://en.wikipedia.org/wiki/Evolution_of_spiders
+386: Viral evolution - https://en.wikipedia.org/wiki/Viral_evolution
+387: Evolution of influenza - https://en.wikipedia.org/wiki/Evolution_of_influenza
+388: Evolution of cells - https://en.wikipedia.org/wiki/Evolution_of_cells
+389: Models of DNA evolution - https://en.wikipedia.org/wiki/Models_of_DNA_evolution
+390: Evolution of flagella - https://en.wikipedia.org/wiki/Evolution_of_flagella
+391: Symbiogenesis - https://en.wikipedia.org/wiki/Symbiogenesis
+392: Evolution of the eye - https://en.wikipedia.org/wiki/Evolution_of_the_eye
+393: Evolution of mammalian auditory ossicles - https://en.wikipedia.org/wiki/Evolution_of_mammalian_auditory_ossicles
+394: Evolution of nervous systems - https://en.wikipedia.org/wiki/Evolution_of_nervous_systems
+395: Evolution of the brain - https://en.wikipedia.org/wiki/Evolution_of_the_brain
+396: Evolution of ageing - https://en.wikipedia.org/wiki/Evolution_of_ageing
+397: Origin of avian flight - https://en.wikipedia.org/wiki/Origin_of_avian_flight
+398: Evolution of biological complexity - https://en.wikipedia.org/wiki/Evolution_of_biological_complexity
+399: Co-operation (evolution) - https://en.wikipedia.org/wiki/Co-operation_(evolution)
+400: Evolution of emotion - https://en.wikipedia.org/wiki/Evolution_of_emotion
+401: Evolutionary ethics - https://en.wikipedia.org/wiki/Evolutionary_ethics
+402: Evolution of eusociality - https://en.wikipedia.org/wiki/Evolution_of_eusociality
+403: Monogamy in animals - https://en.wikipedia.org/wiki/Monogamy_in_animals
+404: Mosaic evolution - https://en.wikipedia.org/wiki/Mosaic_evolution
+405: Evolution of sexual reproduction - https://en.wikipedia.org/wiki/Evolution_of_sexual_reproduction
+406: Origin and function of meiosis - https://en.wikipedia.org/wiki/Origin_and_function_of_meiosis
+407: Saltation (biology) - https://en.wikipedia.org/wiki/Saltation_(biology)
+408: Mutationism - https://en.wikipedia.org/wiki/Macromutation
+409: Catastrophism - https://en.wikipedia.org/wiki/Catastrophism
+410: Allopatric speciation - https://en.wikipedia.org/wiki/Allopatric_speciation
+411: Anagenesis - https://en.wikipedia.org/wiki/Anagenesis
+412: Catagenesis (biology) - https://en.wikipedia.org/wiki/Catagenesis_(biology)
+413: Cladogenesis - https://en.wikipedia.org/wiki/Cladogenesis
+414: Cospeciation - https://en.wikipedia.org/wiki/Cospeciation
+415: Ecological speciation - https://en.wikipedia.org/wiki/Ecological_speciation
+416: Parapatric speciation - https://en.wikipedia.org/wiki/Parapatric_speciation
+417: Peripatric speciation - https://en.wikipedia.org/wiki/Peripatric_speciation
+418: Reinforcement (speciation) - https://en.wikipedia.org/wiki/Reinforcement_(speciation)
+419: Sympatric speciation - https://en.wikipedia.org/wiki/Sympatric_speciation
+420: Blending inheritance - https://en.wikipedia.org/wiki/Blending_inheritance
+421: Modern synthesis (20th century) - https://en.wikipedia.org/wiki/Modern_synthesis_(20th_century)
+422: Extended evolutionary synthesis - https://en.wikipedia.org/wiki/Extended_evolutionary_synthesis
+423: Alternatives to evolution by natural selection - https://en.wikipedia.org/wiki/Alternatives_to_evolution_by_natural_selection
+424: Orthogenesis - https://en.wikipedia.org/wiki/Orthogenesis
+425: Structuralism (biology) - https://en.wikipedia.org/wiki/Structuralism_(biology)
+426: Theistic evolution - https://en.wikipedia.org/wiki/Theistic_evolution
+427: Vitalism - https://en.wikipedia.org/wiki/Vitalism
+428: Ecological genetics - https://en.wikipedia.org/wiki/Ecological_genetics
+429: Molecular evolution - https://en.wikipedia.org/wiki/Molecular_evolution
+430: Systematics - https://en.wikipedia.org/wiki/Systematics
+431: Ambush predator - https://en.wikipedia.org/wiki/Sit-and-wait_predators
+432: Autohaemorrhaging - https://en.wikipedia.org/wiki/Reflex_bleeding
+433: Lace monitor - https://en.wikipedia.org/wiki/Varanus_varius
+434: Agonistic behaviour - https://en.wikipedia.org/wiki/Agonistic_behaviour
+435: Deimatic behaviour - https://en.wikipedia.org/wiki/Threat_display
+436: Masticophis - https://en.wikipedia.org/wiki/Masticophis
+437: Australian Aboriginal religion and mythology - https://en.wikipedia.org/wiki/Australian_Aboriginal_mythology
+438: Bengal monitor - https://en.wikipedia.org/wiki/Bengal_monitor
+439: Galapagos racer - https://en.wikipedia.org/wiki/Galapagos_racer
+440: Sea krait - https://en.wikipedia.org/wiki/Laticauda
+441: Hydrophis spiralis - https://en.wikipedia.org/wiki/Hydrophis_spiralis
+442: Emydocephalus - https://en.wikipedia.org/wiki/Emydocephalus
+443: Pelagic zone - https://en.wikipedia.org/wiki/Pelagic
+444: Ventral scales - https://en.wikipedia.org/wiki/Ventral_scales
+445: Rostral scale - https://en.wikipedia.org/wiki/Rostral_scale
+446: Blue-lipped sea krait - https://en.wikipedia.org/wiki/Laticauda_laticaudata
+447: Aipysurus - https://en.wikipedia.org/wiki/Aipysurus
+448: Hydrophis curtus - https://en.wikipedia.org/wiki/Lapemis_curtus
+449: Hydrophis peronii - https://en.wikipedia.org/wiki/Acalyptophis_peronii
+450: Lateral line - https://en.wikipedia.org/wiki/Lateral_line
+451: Aipysurus laevis - https://en.wikipedia.org/wiki/Aipysurus_laevis
+452: Cape Town - https://en.wikipedia.org/wiki/Cape_Town
+453: Panama Canal - https://en.wikipedia.org/wiki/Panama_Canal
+454: Hydrophis semperi - https://en.wikipedia.org/wiki/Hydrophis_semperi
+455: Philippines - https://en.wikipedia.org/wiki/Philippines
+456: Crocker's sea snake - https://en.wikipedia.org/wiki/Laticauda_crockeri
+457: Rennell Island - https://en.wikipedia.org/wiki/Rennell_Island
+458: Stokes's sea snake - https://en.wikipedia.org/wiki/Astrotia_stokesii
+459: Enhydrina schistosa - https://en.wikipedia.org/wiki/Enhydrina_schistosa
+460: Enhydrina zweifeli - https://en.wikipedia.org/wiki/Enhydrina_zweifeli
+461: Hydrophis ornatus - https://en.wikipedia.org/wiki/Hydrophis_ornatus
+462: Median lethal dose - https://en.wikipedia.org/wiki/LD50
+463: Rhabdomyolysis - https://en.wikipedia.org/wiki/Rhabdomyolysis
+464: Ptosis (eyelid) - https://en.wikipedia.org/wiki/Ptosis_(eyelid)
+465: Tiger snake - https://en.wikipedia.org/wiki/Notechis
+466: Gerard Krefft - https://en.wikipedia.org/wiki/Gerard_Krefft
+467: Enhydrina - https://en.wikipedia.org/wiki/Enhydrina
+468: Bangladesh - https://en.wikipedia.org/wiki/Bangladesh
+469: Myanmar - https://en.wikipedia.org/wiki/Myanmar
+470: Grey's mudsnake - https://en.wikipedia.org/wiki/Ephalophis
+471: Hydrophis - https://en.wikipedia.org/wiki/Hydrophis
+472: Jerdon's sea snake - https://en.wikipedia.org/wiki/Kerilia
+473: Hydrophis annandalei - https://en.wikipedia.org/wiki/Kolpophis
+474: Northern mangrove seasnake - https://en.wikipedia.org/wiki/Parahydrophis
+475: François Marie Daudin - https://en.wikipedia.org/wiki/Fran%C3%A7ois_Marie_Daudin
+476: Hydrophis viperinus - https://en.wikipedia.org/wiki/Praescutata
+477: Hydrophis cyanocinctus - https://en.wikipedia.org/wiki/Hydrophis_cyanocinctus
+478: Aipysurus fuscus - https://en.wikipedia.org/wiki/Aipysurus_fuscus
+479: Aipysurus foliosquama - https://en.wikipedia.org/wiki/Aipysurus_foliosquama
+480: Aipysurus apraefrontalis - https://en.wikipedia.org/wiki/Aipysurus_apraefrontalis
+481: Hybrid (biology) - https://en.wikipedia.org/wiki/Hybrid_(biology)
+482: Ernst Mayr - https://en.wikipedia.org/wiki/Ernst_Mayr
+483: Pseudoextinction - https://en.wikipedia.org/wiki/Pseudoextinction
+484: Cline (biology) - https://en.wikipedia.org/wiki/Cline_(population_genetics)
+485: History of speciation - https://en.wikipedia.org/wiki/History_of_speciation
+486: Laboratory experiments of speciation - https://en.wikipedia.org/wiki/Laboratory_experiments_of_speciation
+487: Glossary of speciation - https://en.wikipedia.org/wiki/Glossary_of_speciation
+488: Evidence for speciation by reinforcement - https://en.wikipedia.org/wiki/Evidence_for_speciation_by_reinforcement
+489: Secondary contact - https://en.wikipedia.org/wiki/Secondary_contact
+490: Python (genus) - https://en.wikipedia.org/wiki/Python_(genus)
+491: List of largest snakes - https://en.wikipedia.org/wiki/List_of_largest_snakes
+492: Frank Buck (animal collector) - https://en.wikipedia.org/wiki/Frank_Buck_(animal_collector)
+493: Asphyxia - https://en.wikipedia.org/wiki/Asphyxiation
+494: Akbar Salubiro - https://en.wikipedia.org/wiki/Death_of_Akbar_Salubiro
+495: Burmese python - https://en.wikipedia.org/wiki/Burmese_python
+496: Insular dwarfism - https://en.wikipedia.org/wiki/Insular_dwarfism
+497: Python timoriensis - https://en.wikipedia.org/wiki/Timor_python
+498: Raymond Hoser - https://en.wikipedia.org/wiki/Raymond_Hoser
+499: List of pythonid species and subspecies - https://en.wikipedia.org/wiki/List_of_pythonid_species_and_subspecies
+500: Jonathan A. Campbell - https://en.wikipedia.org/wiki/Jonathan_A._Campbell

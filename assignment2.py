@@ -9,7 +9,7 @@ seedQ = seed.getSeedURLsQ(seedURLs)
 
 relatedTerms = seed.getRelatedTerms()
 
-pageLimit = 100
+pageLimit = 500
 
 save.createDirectory('Assignment 2')
 
